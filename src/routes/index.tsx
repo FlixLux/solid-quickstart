@@ -4,7 +4,6 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
         <main>
-        Visit{" "}
         {" "}
 <h1>Privacy Policy</h1>
 <p>Last updated: December 01, 2023</p>
